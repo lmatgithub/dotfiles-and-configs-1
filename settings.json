@@ -17,7 +17,6 @@
   "editor.fontFamily": "'DroidSansMono Nerd Font', 'Droid Sans Mono', Consolas, 'Courier New', monospace",
   "prettier.useTabs": true,
   "editor.lineHeight": 1.5,
-  "prettier.printWidth": 600,
   "python.formatting.provider": "black",
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -105,7 +104,7 @@
   "todo.indentation": "  ",
   "scss.lint.unknownAtRules": "ignore",
   "prettier.singleAttributePerLine": true,
-  "workbench.colorTheme": "Rosé Pine Moon",
+  "workbench.colorTheme": "Rosé Pine",
   "css.lint.unknownAtRules": "ignore",
   "[prisma]": {
     "editor.defaultFormatter": "Prisma.prisma"
